@@ -1,1 +1,1 @@
-# LC
+# LeetCode Tasks in JavaScript
